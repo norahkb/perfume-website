@@ -77,4 +77,32 @@
     }
   });
     
+     function dataBackgroundImage() {
+    $("[data-bgimg]").each(function () {
+      var bgImgUrl = $(this).data("bgimg");
+      $(this).css({
+        "background-image": "url(" + bgImgUrl + ")",
+      });
+    });
+  }
+
+  $(window).on("load", function () {
+    dataBackgroundImage();
+  });
+
+  // slider activate
+  $(".slider_area").owlCarousel({
+    animateOut: "fadeOut",
+    autoplay: true,
+    loop: true,
+    nav: true,
+    autoplay: false,
+    autoplayTimeout: 5000,
+    items: 1,
+    dots: false,
+    navText: [
+      '<i class="fa fa-arrow-left"></i>',
+      '<i class="fa fa-arrow-right"></i>',
+    ],
+  }); 
 })(jQuery);
