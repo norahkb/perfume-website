@@ -2199,7 +2199,137 @@ figure {
   display: block;
 }
 
- 
+ /*hotdeals start*/
+@media only screen and (max-width: 767px) {
+  .home-section_two {
+    margin-bottom: 54px;
+  }
+}
+
+.home_section_two .owl-nav {
+  position: absolute;
+  top: -72px;
+  right: 16px;
+  display: flex;
+  justify-content: space-between;
+  width: 35px;
+}
+
+@media only screen and (max-width: 767px) {
+  .home_section_two .owl-nav {
+    top: -63px;
+  }
+}
+
+.home_section_two .owl-nav div {
+  font-size: 15px;
+  opacity: inherit;
+  visibility: inherit;
+  position: initial;
+  transform: initial;
+  height: initial;
+  line-height: initial;
+  transition: 0.3s;
+  color: #f6692a;
+  width: initial;
+  border: initial;
+}
+
+.home_section_two .owl-nav div:hover {
+  color: #8b1b46;
+  background: inherit;
+}
+
+.mb-70 {
+  margin-bottom: 70px;
+}
+
+@media only screen and (min-width: 768px) and (max-width: 991px) {
+  .home_section_left {
+    margin-bottom: 65px;
+  }
+}
+
+@media only screen and (max-width: 767px) {
+  .home_section_left {
+    margin-bottom: 56px;
+  }
+}
+
+@media only screen and (ma-width: 767px) {
+  .deals_product_area {
+    margin-bottom: 58px;
+  }
+}
+.mb-68 {
+  margin-bottom: 68px;
+}
+
+.section_title_style2 {
+  text-align: left;
+  margin-bottom: 30px;
+}
+@media only screen and (max-width: 767px) {
+  .section_title_style2 {
+    margin-bottom: 20px;
+  }
+}
+
+.section_title_style2::before {
+  /*hot deal line lengthe*/
+  width: 70px;
+  bottom: 0;
+  top: auto;
+  left: 0;
+  right: auto;
+  z-index: 9;
+}
+
+.section_title_style2 h2 {
+  font-size: 20px;
+  line-height: 20px;
+  padding: 0 0 20px;
+}
+
+@media only screen and (max-width: 767px) {
+  .section_title_style2 h2 {
+    font-size: 18px;
+    line-height: 18px;
+    padding: 0 0 15px;
+  }
+}
+
+.deals_carousel .col-lg-3 {
+  flex: 0 0 100%;
+  max-width: 300px;
+}
+
+.deals_carousel .single_product {
+  border: 1px solid #ebebeb;
+}
+
+.deals_carousel .product_content {
+  padding: 20px 14px 17px;
+  margin-top: 0;
+}
+
+@media only screen and (min-width: 992px) and (max-width: 1199px) {
+  .deals_carousel .product_content {
+    padding: 20px 10px 17px;
+  }
+}
+
+.deals_carousel .product_thumb a img {
+  width: 300px;
+}
+
+
+
+/* hotdeals ends*/
+
+
+
+
   
 
 
