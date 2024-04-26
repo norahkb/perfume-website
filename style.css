@@ -2453,7 +2453,67 @@ figure {
 }
 
   
+/* **************Testimonial************** */
+@media only screen and (max-width: 767px) {
+  .testimonial_style_two {
+    margin-bottom: 50px;
+  }
+}
 
+.testimonial_style_two .section_title_style2::before {
+  background: #000000;
+}
+
+.testimonial_style_two .section_title_style2 h2 {
+  color: #000000;
+  background: inherit;
+}
+
+.testimonial_content h4 {
+  font-size: 15px;
+  line-height: 15px;
+  font-weight: 700;
+  margin-top: 20px;
+  margin-bottom: 0;
+  text-transform: capitalize;
+}
+.testimonial_content h4 a {
+  color: #000000;
+}
+.testimonial_content h4 a:hover {
+  color: #f6692a;
+}
+@media only screen and (max-width: 767px) {
+  .testimonial_content h4 {
+    margin-top: 22px;
+  }
+}
+
+.testimonial_content p {
+  font-size: 15px;
+  line-height: 25px;
+  color: #000000;
+  margin: 30px auto 0;
+  text-align: justify;
+}
+
+@media only screen and (max-width: 767px) {
+  .testimonial_content p {
+    margin: 18px auto 0;
+    line-height: 23px;
+    font-size: 13px;
+  }
+}
+
+.testimonial_sidebar_carousel .testimonial_img a img {
+  width: inherit;
+  display: inline-block;
+  border-radius: 50%;
+}
+
+.single_testimonial {
+  text-align: center;
+}
 
 
 
