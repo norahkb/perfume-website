@@ -4,7 +4,7 @@ Currently, we feature three premier Saudi perfume brands on our site: Abdulsamad
 We aim to promote and bolster the local fragrance sector by highlighting these leading Saudi perfume makers. Our goal is to facilitate greater appreciation and access to the exceptional perfumes crafted within Saudi Arabia.
 
 ## Use Case Diagram: 
-<img src="["](https://github.com/norahkb/perfume-website/assets/117577032/2e36ee16-8704-456d-bd0d-ef29e9868bcf)>
+<img src="">
 
 ## Prototype: 
 
