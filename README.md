@@ -12,9 +12,9 @@ width="300" height ="">
 
 ## Prototype: 
 
-## setup 
+## setup:
 
-## Technologies used
+## Technologies used:
 
 ## Future Work:
 We will expand the selection of Saudi Arabian perfume brands offered on our website to cover a wider range. In addition, we will be offering our exclusive perfume brand.
