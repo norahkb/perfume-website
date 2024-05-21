@@ -1,9 +1,3 @@
-## Students Names:
-Deemah Alrajhi
-
-Noura
-
-Rawan
 
 ## About
 Our website is dedicated to supporting the Saudi Arabian perfume industry. We showcase a curated selection of the top Saudi perfume brands, making it easier for customers to discover and access these high-quality products.
@@ -18,6 +12,10 @@ width="300" height ="">
 
 ## Prototype: 
 
+## setup 
+
+## Technologies used
+
 ## Future Work:
 We will expand the selection of Saudi Arabian perfume brands offered on our website to cover a wider range. In addition, we will be offering our exclusive perfume brand.
 
@@ -25,3 +23,10 @@ We will expand the selection of Saudi Arabian perfume brands offered on our webs
 [https://youtu.be/ajltKxgsEko?si=GVgAbV9W6bm71aeU](https://youtu.be/ajltKxgsEko?si=GVgAbV9W6bm71aeU)
 
 [https://youtu.be/evz1LqEomTE?si=p3giK6kLTeF9sK4p](https://youtu.be/evz1LqEomTE?si=p3giK6kLTeF9sK4p)
+
+## Students Names:
+Deemah Alrajhi
+
+Noura
+
+Rawan
