@@ -26,5 +26,7 @@ We will expand the selection of Saudi Arabian perfume brands offered on our webs
 
 ## Students Names:
 > Deemah Alrajhi
-> Noura 
-> Rawan
+
+> Noura Binzaid
+
+> Rawan Alnufaie
