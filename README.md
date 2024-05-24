@@ -42,8 +42,10 @@ width="600" height ="300">
 
 
 - ABOUT US Section
-  
-  
+      <div>
+<img src= "https://github.com/norahkb/perfume-website/assets/117577032/da036006-cec7-40b8-b532-00295003d7a6"
+width="600" height ="300">
+</div>    
 - Footer Section
        <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/e39ce512-2cc5-4feb-a561-a7c66d1a1ef2"
