@@ -4,26 +4,71 @@ Our website is dedicated to supporting the Saudi Arabian perfume industry. We sh
 Currently, we feature three premier Saudi perfume brands on our site: Abdulsamad Alqurashi, Laverne, and Faisal Aldayel. These brands represent some of the best and most prestigious perfumes produced in Saudi Arabia. 
 We aim to promote and bolster the local fragrance sector by highlighting these leading Saudi perfume makers. Our goal is to facilitate greater appreciation and access to the exceptional perfumes crafted within Saudi Arabia.
 
+### Screenshots
+
+Include screenshots of the different sections of the website to provide an overview of its design and layout.
+
+- Front Section
+  ![Home Page](screenshots/1.png)
+
+- FEATURED BRANDS Section
+  ![Activities Page](screenshots/2.png)
+
+- NEW PRODUCTS Section
+  ![BMI Calculator](screenshots/3.png)
+  
+- SALES Section
+  ![Home Page](screenshots/1.png)
+
+- DISCOVER NEW COLLECTIONS Section
+  ![Activities Page](screenshots/2.png)
+
+- ABOUT US Section
+  ![BMI Calculator](screenshots/3.png)
+  
+- Footer Section
+  ![BMI Calculator](screenshots/3.png)
+    
+  
+## setup:
+
+## Technologies used:
+- HTML
+- CSS
+- JavaScript
+- Node.js
+- Express
+- MongoDB
+- BootStrap
+- Googlefonts
+  
 ## Flowchart: 
 <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/1887e586-c912-425a-9873-711501e60704"
 width="300" height ="">
 </div>
 
-## Use Case Diagram: 
+## User Interaction Flow
+
+The user journey on the website can be summarized using the following flowchart:
+
 <div>
-<img src= "https://github.com/norahkb/perfume-website/assets/117577032/c58878d9-11b2-42b4-a142-525ded77c6d4"
+<img src= "https://github.com/norahkb/perfume-website/assets/117577032/1887e586-c912-425a-9873-711501e60704"
 width="300" height ="">
 </div>
 
-## Prototype: 
-
-## setup:
-
-## Technologies used:
-
 ## Future Work:
 We will expand the selection of Saudi Arabian perfume brands offered on our website to cover a wider range. In addition, we will be offering our exclusive perfume brand.
+
+## Getting Started
+
+To run the project locally, follow these steps:
+
+1. Clone the repository: `git clone https://github.com/NuarAldusimani-13/WebProject.git`
+2. Install dependencies: `npm install`
+3. Start MongoDB: `mongod`
+4. Start the server: `node app.js`
+5. Open the website in your browser: `http://localhost:3000`
 
 ## References:
 [https://youtu.be/ajltKxgsEko?si=GVgAbV9W6bm71aeU](https://youtu.be/ajltKxgsEko?si=GVgAbV9W6bm71aeU)
