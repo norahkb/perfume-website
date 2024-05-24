@@ -105,13 +105,8 @@ app.get('/signup', (req, res) => {
 - BootStrap
 - Googlefonts
   
-## Flowchart: 
-<div>
-<img src= "https://github.com/norahkb/perfume-website/assets/117577032/1887e586-c912-425a-9873-711501e60704"
-width="300" height ="">
-</div>
 
-## User Interaction Flow
+## Flowchart:
 
 The user journey on the website can be summarized using the following flowchart:
 
@@ -120,18 +115,19 @@ The user journey on the website can be summarized using the following flowchart:
 width="300" height ="">
 </div>
 
-## Future Work:
-We will expand the selection of Saudi Arabian perfume brands offered on our website to cover a wider range. In addition, we will be offering our exclusive perfume brand.
-
 ## Getting Started
 
 To run the project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/norahkb/perfume-website/tree/main`
 2. Install dependencies: `npm i express mongoose body-parser`
-3. Start MongoDB: `mongod`
+3. Start MongoDB: `mongodb connect`
 4. Start the server: `nodemon index.js`
 5. Open the website in your browser: `http://localhost:3000
+
+## Future Work:
+We will expand the selection of Saudi Arabian perfume brands offered on our website to cover a wider range. In addition, we will be offering our exclusive perfume brand.
+
 
 ## References:
 [https://youtu.be/ajltKxgsEko?si=GVgAbV9W6bm71aeU](https://youtu.be/ajltKxgsEko?si=GVgAbV9W6bm71aeU)
