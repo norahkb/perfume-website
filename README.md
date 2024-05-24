@@ -45,7 +45,10 @@ width="600" height ="300">
   
   
 - Footer Section
-  
+       <div>
+<img src= "https://github.com/norahkb/perfume-website/assets/117577032/e39ce512-2cc5-4feb-a561-a7c66d1a1ef2"
+width="600" height ="300">
+</div>  
     
   
 ## setup:
