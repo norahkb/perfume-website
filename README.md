@@ -9,25 +9,25 @@ We aim to promote and bolster the local fragrance sector by highlighting these l
 Include screenshots of the different sections of the website to provide an overview of its design and layout.
 
 - Front Section
-  ![Home Page](screenshots/1.png)
+ 
 
 - FEATURED BRANDS Section
-  ![Activities Page](screenshots/2.png)
+ 
 
 - NEW PRODUCTS Section
-  ![BMI Calculator](screenshots/3.png)
+ 
   
 - SALES Section
-  ![Home Page](screenshots/1.png)
+  
 
 - DISCOVER NEW COLLECTIONS Section
-  ![Activities Page](screenshots/2.png)
+
 
 - ABOUT US Section
-  ![BMI Calculator](screenshots/3.png)
+  
   
 - Footer Section
-  ![BMI Calculator](screenshots/3.png)
+  
     
   
 ## setup:
