@@ -6,7 +6,8 @@ We aim to promote and bolster the local fragrance sector by highlighting these l
 
 ## Use Case Diagram: 
 <div>
-<img src= "https://github.com/norahkb/perfume-website/assets/117577032/a1a6273d-87dc-4817-9422-b7acd5e957e6"
+<img src= "![IMAGE 1445-11-16 17:12:04](https://github.com/norahkb/perfume-website/assets/117577032/1887e586-c912-425a-9873-711501e60704)
+"
 width="300" height ="">
 </div>
 
