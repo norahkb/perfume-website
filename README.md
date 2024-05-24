@@ -4,10 +4,9 @@ Our website is dedicated to supporting the Saudi Arabian perfume industry. We sh
 Currently, we feature three premier Saudi perfume brands on our site: Abdulsamad Alqurashi, Laverne, and Faisal Aldayel. These brands represent some of the best and most prestigious perfumes produced in Saudi Arabia. 
 We aim to promote and bolster the local fragrance sector by highlighting these leading Saudi perfume makers. Our goal is to facilitate greater appreciation and access to the exceptional perfumes crafted within Saudi Arabia.
 
-## Use Case Diagram: 
+## Flowchart: 
 <div>
-<img src= "![IMAGE 1445-11-16 17:12:04](https://github.com/norahkb/perfume-website/assets/117577032/1887e586-c912-425a-9873-711501e60704)
-"
+<img src= "https://github.com/norahkb/perfume-website/assets/117577032/1887e586-c912-425a-9873-711501e60704"
 width="300" height ="">
 </div>
 
