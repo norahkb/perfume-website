@@ -55,16 +55,19 @@ width="300" height ="">
 app.use(express.static(path.join(__dirname, 'src', 'public')));
 
 - Route to serve main page
+  
 app.get('/', (req, res) => {
     res.sendFile(path.join(__dirname, 'SaudiScent', 'index.html'));
 });
 
 - Route to serve login page
+  
 app.get('/login', (req, res) => {
     res.sendFile(path.join(__dirname, 'src', 'public', 'login.html'));
 });
 
 - Route to serve sign up page
+  
 app.get('/signup', (req, res) => {
     res.sendFile(path.join(__dirname, 'src', 'public', 'signup.html'));
 });
