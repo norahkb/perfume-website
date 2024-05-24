@@ -17,13 +17,13 @@ width="300" height ="">
 - Login Page
     <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/10e65887-d26a-4743-8546-790ddd7ac440"
-width="300" height ="">
+width="600" height ="300">
 </div>  
 
 - Front Section
      <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/59b429e3-d32d-4da5-8545-e5600df50d0b"
-width="300" height ="">
+width="600" height ="300">
 </div>  
 
 - FEATURED BRANDS Section
