@@ -8,6 +8,10 @@ We aim to promote and bolster the local fragrance sector by highlighting these l
 
 Include screenshots of the different sections of the website to provide an overview of its design and layout.
 
+- Signup page
+  
+- Login Page
+  
 - Front Section
  
 
