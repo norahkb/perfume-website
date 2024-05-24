@@ -111,7 +111,7 @@ app.get('/signup', (req, res) => {
 The user journey on the website can be summarized using the following Use Case:
 
 <div>
-<img src= "https://github.com/norahkb/perfume-website/assets/117577032/1887e586-c912-425a-9873-711501e60704"
+<img src= "https://github.com/norahkb/perfume-website/assets/117577032/826359d4-11fd-4ed0-b82b-fe0bee8aa869"
 width="300" height ="">
 </div>
 
