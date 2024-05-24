@@ -10,6 +10,12 @@ We aim to promote and bolster the local fragrance sector by highlighting these l
 width="300" height ="">
 </div>
 
+## Use Case Diagram: 
+<div>
+<img src= "https://github.com/norahkb/perfume-website/assets/117577032/c58878d9-11b2-42b4-a142-525ded77c6d4"
+width="300" height ="">
+</div>
+
 ## Prototype: 
 
 ## setup:
