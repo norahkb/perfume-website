@@ -72,7 +72,7 @@ We will expand the selection of Saudi Arabian perfume brands offered on our webs
 
 To run the project locally, follow these steps:
 
-1. Clone the repository: `git clone https://github.com/NuarAldusimani-13/WebProject.git`
+1. Clone the repository: `git clone https://github.com/norahkb/perfume-website/tree/main`
 2. Install dependencies: `npm install`
 3. Start MongoDB: `mongod`
 4. Start the server: `node app.js`
