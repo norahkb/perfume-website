@@ -39,13 +39,17 @@ width="600" height ="300">
   
 
 - DISCOVER NEW COLLECTIONS Section
-
+     <div>
+<img src= "https://github.com/norahkb/perfume-website/assets/117577032/d2a98865-5486-487c-8e0f-fea44395201f"
+width="600" height ="300">
+</div>  
 
 - ABOUT US Section
       <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/da036006-cec7-40b8-b532-00295003d7a6"
 width="600" height ="300">
-</div>    
+</div>  
+
 - Footer Section
        <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/e39ce512-2cc5-4feb-a561-a7c66d1a1ef2"
