@@ -9,51 +9,62 @@ We aim to promote and bolster the local fragrance sector by highlighting these l
 Include screenshots of the different sections of the website to provide an overview of its design and layout.
 
 - Signup page
+  
   <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/3617e494-36e9-4e13-8c60-c85e42e53520"
 width="600" height ="300">
 </div>
 
 - Login Page
+  
     <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/10e65887-d26a-4743-8546-790ddd7ac440"
 width="600" height ="300">
 </div>  
 
 - Front Section
+  
      <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/59b429e3-d32d-4da5-8545-e5600df50d0b"
 width="600" height ="300">
 </div>  
 
 - FEATURED BRANDS Section
+  
        <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/05680743-6a07-4ee2-ac01-745164016ae1"
 width="600" height ="300">
 </div>  
   
 - NEW PRODUCTS Section
+  
        <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/52231a0c-d068-48e2-9752-9a74c6339762"
 width="600" height ="300">
 </div>  
   
 - SALES Section
-  
+       <div>
+<img src= "https://github.com/norahkb/perfume-website/assets/117577032/a5704486-fd15-4de0-a318-55c814c5455f"
+width="600" height ="300">
+</div>  
 
 - DISCOVER NEW COLLECTIONS Section
+  
      <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/d2a98865-5486-487c-8e0f-fea44395201f"
 width="600" height ="300">
 </div>  
 
 - ABOUT US Section
+  
       <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/da036006-cec7-40b8-b532-00295003d7a6"
 width="600" height ="300">
 </div>  
 
 - Footer Section
+  
        <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/e39ce512-2cc5-4feb-a561-a7c66d1a1ef2"
 width="600" height ="300">
