@@ -125,6 +125,12 @@ The user journey on the website can be summarized using the following flowchart:
 width="300" height ="">
 </div>
 
+## Demo:
+https://drive.google.com/file/d/1HN7Inpz2U6pbk7KHd4V7sczeThWHRJ5n/view?usp=share_link
+
+
+
+
 ## Getting Started
 
 To run the project locally, follow these steps:
