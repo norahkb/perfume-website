@@ -83,10 +83,10 @@ We will expand the selection of Saudi Arabian perfume brands offered on our webs
 To run the project locally, follow these steps:
 
 1. Clone the repository: `git clone https://github.com/norahkb/perfume-website/tree/main`
-2. Install dependencies: `npm install`
+2. Install dependencies: `npm i express mongoose body-parser`
 3. Start MongoDB: `mongod`
-4. Start the server: `node app.js`
-5. Open the website in your browser: `http://localhost:3000`
+4. Start the server: `nodemon index.js`
+5. Open the website in your browser: `http://localhost:3000
 
 ## References:
 [https://youtu.be/ajltKxgsEko?si=GVgAbV9W6bm71aeU](https://youtu.be/ajltKxgsEko?si=GVgAbV9W6bm71aeU)
