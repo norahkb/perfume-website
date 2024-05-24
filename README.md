@@ -21,7 +21,10 @@ width="300" height ="">
 </div>  
 
 - Front Section
- 
+     <div>
+<img src= "https://github.com/norahkb/perfume-website/assets/117577032/59b429e3-d32d-4da5-8545-e5600df50d0b"
+width="300" height ="">
+</div>  
 
 - FEATURED BRANDS Section
  
