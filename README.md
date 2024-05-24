@@ -29,7 +29,7 @@ width="300" height ="">
 - FEATURED BRANDS Section
       <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/52231a0c-d068-48e2-9752-9a74c6339762"
-width="500" height ="300">
+width="600" height ="300">
 </div>  
 
 - NEW PRODUCTS Section
