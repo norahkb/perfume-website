@@ -11,7 +11,7 @@ Include screenshots of the different sections of the website to provide an overv
 - Signup page
   <div>
 <img src= "https://github.com/norahkb/perfume-website/assets/117577032/3617e494-36e9-4e13-8c60-c85e42e53520"
-width="500" height ="100">
+width="300" height ="">
 </div>
 
 - Login Page
@@ -39,6 +39,7 @@ width="300" height ="">
   
 
 - DISCOVER NEW COLLECTIONS Section
+![Uploading DISCOVER NEW COLLECTION.png…]()
 
 
 - ABOUT US Section
