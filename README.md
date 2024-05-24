@@ -129,8 +129,6 @@ width="300" height ="">
 https://drive.google.com/file/d/1HN7Inpz2U6pbk7KHd4V7sczeThWHRJ5n/view?usp=share_link
 
 
-
-
 ## Getting Started
 
 To run the project locally, follow these steps:
@@ -145,10 +143,20 @@ To run the project locally, follow these steps:
 We will expand the selection of Saudi Arabian perfume brands offered on our website to cover a wider range. In addition, we will be offering our exclusive perfume brand.
 
 
-## References:
+## Resources:
+[https://www.canva.com/design/DAGF2qBQ1Ns/4Ua7F_OpSptcekgD0x94vA/edit?utm_content=DAGF2qBQ1Ns&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton]
+
 [https://youtu.be/ajltKxgsEko?si=GVgAbV9W6bm71aeU](https://youtu.be/ajltKxgsEko?si=GVgAbV9W6bm71aeU)
 
 [https://youtu.be/evz1LqEomTE?si=p3giK6kLTeF9sK4p](https://youtu.be/evz1LqEomTE?si=p3giK6kLTeF9sK4p)
+
+[https://laverne.com/]
+
+[https://faisalaldayel.com/]
+
+[https://store.asqgrp.com/ar/]
+
+[https://www.behance.net/gallery/118464619/Laverne-digital-design]
 
 ## Students Names:
 > Deemah Alrajhi 
